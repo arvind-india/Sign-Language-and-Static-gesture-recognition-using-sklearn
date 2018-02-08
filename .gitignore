@@ -100,3 +100,8 @@ venv.bak/
 
 # OSx
 .DS_Store
+
+# Datasets and models
+dataset/**/*.csv
+dataset/**/*.jpg
+dataset/*.pkl.gz
