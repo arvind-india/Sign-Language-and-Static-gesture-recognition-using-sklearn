@@ -39,3 +39,8 @@ https://github.com/mon95/Sign-Language-and-Static-gesture-recognition-using-skle
 The functions in the pipeline_final.ipynb ipython notebook can be used to build your own pipeline using various classifier combinations from the scikit learn toolbox.
 
 A slightly more detailed explanation here: https://github.com/mon95/Sign-Language-and-Static-gesture-recognition-using-sklearn/issues/3 
+
+
+Install requirements:
+
+pip install -r requirements.txt
